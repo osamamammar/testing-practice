@@ -1,0 +1,13 @@
+node_modules
+node_modules/
+# testing
+/coverage
+
+# production
+/build
+
+dist
+.tmp
+.DS_STORE
+.vscode
+*.log
